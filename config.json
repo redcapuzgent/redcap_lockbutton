@@ -1,0 +1,17 @@
+{
+  "name": "Lock button",
+  "namespace": "uzgent\\LockButtonClass",
+  "description": "Puts a lock-all button underneath the 'Lock this record for this form?' section.",
+  "authors": [
+    {
+      "name": "Lieven Vaneeckhaute",
+      "email": "lieven.vaneeckhaute@uzgent.be",
+      "institution": "University Hospital Ghent"
+    }
+  ],
+  "documentation" : "howto.html",
+  "permissions": [
+    "redcap_data_entry_form"
+  ]
+
+}
